@@ -13,4 +13,4 @@ https://github.com/Sonal0409/MavenBuild-Docker-GitHubActions.git commit change 1
 
 # cd MavenBuild-Docker-GitHubActions
 
-# mvn clean install package
+# mvn clean install package shiva
