@@ -1,0 +1,16 @@
+Project structure :
+
+src/main/java --> developer will write java code 
+
+src/test/java ----> developer will write test code 
+
+==================
+Demo 3: Run all the Commands
+
+https://github.com/Sonal0409/MavenBuild-Docker-GitHubActions.git
+
+# git clone https://github.com/Sonal0409/MavenBuild-Docker-GitHubActions.git
+
+# cd MavenBuild-Docker-GitHubActions
+
+# mvn clean install package
